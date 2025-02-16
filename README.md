@@ -1,5 +1,4 @@
 # QuizMe-Adaptive-Quiz-CLI-Application
-Project Description
 QuizMe is a command-line interface (CLI) application that provides an adaptive quiz experience. It uses an Adaptive Review System (ARS) to tailor the quiz to the user's knowledge level. The system adjusts the difficulty and frequency of questions based on the user's performance, ensuring a personalized and effective learning experience.
 
 Key Features:
